@@ -1,6 +1,6 @@
 # My GitHub Statistics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saattrupdan&show_icons=true&locale=en" alt="kennethcenevoldsen" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saattrupdan&show_icons=true&locale=en" alt="saattrupdan" /></p>
 
 <!--
 **saattrupdan/saattrupdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
